@@ -2,17 +2,17 @@ body {
                 background-image: url(https://getwallpapers.com/wallpaper/full/a/8/e/485736.jpg);
             }
             h1 {
-                color:honeydew;
+                color:chartreuse;
                 text-align:center;
                 font-family:monospace;
             }
             h2 {
-                color:honeydew;
+                color:lemonchiffon;
                 text-align:center;
                 font-family: sans-serif;
             }
             p{
-                color: honeydew;
+                color:lemonchiffon;
                 text-align: justify;
                 font-family: sans-serif;
             }
@@ -21,10 +21,12 @@ body {
                
                 font-size: 56px;
                 text-align: center;
-                text-decoration:underline;
+                text-decoration:dotted;
 
             }
             a{
+                color: gold;
+                text-decoration:;
+                font-size: 20px;
                 text-align: center;
-                
             }
