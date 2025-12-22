@@ -1,32 +1,45 @@
 body {
-                background-image: url(https://getwallpapers.com/wallpaper/full/a/8/e/485736.jpg);
+                background-image:url(../pics/yellow.png);
             }
+            *{text-align: center;}
             h1 {
-                color:chartreuse;
-                text-align:center;
+                color:darkorchid;
+                
                 font-family:monospace;
             }
             h2 {
-                color:lemonchiffon;
-                text-align:center;
+                color:cornflowerblue;
+                
                 font-family: sans-serif;
             }
-            p{
+            #para2{
                 color:lemonchiffon;
-                text-align: justify;
+            }
+            #para3{
+                color: pink;
+            }
+            p{
+                
+                
                 font-family: sans-serif;
             }
             h3{
-                color: goldenrod;
+                color: lemonchiffon;
                
                 font-size: 56px;
-                text-align: center;
+              
                 text-decoration:dotted;
 
             }
             a{
-                color: gold;
-                text-decoration:;
+                color:coral;
+                
                 font-size: 20px;
-                text-align: center;
+               
             }
+            img{
+                max-width: 100%;
+            }
+           p.small{
+            font-size: 10px;
+           }
