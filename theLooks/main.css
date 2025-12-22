@@ -1,5 +1,5 @@
 body {
-                background-image:url(../pics/yellow.png);
+                background-image:url(../pics/pink\ bone\ background.jpg);
             }
             *{text-align: center;}
             h1 {
@@ -42,4 +42,11 @@ body {
             }
            p.small{
             font-size: 10px;
+           }
+           article{
+            margin:auto;
+            background-image: url(../pics/yellow.png);
+            text-align: center;
+            width: 80%;
+
            }
