@@ -3,7 +3,7 @@ body {
             }
             *{text-align: center;}
             h1 {
-                color:darkorchid;
+                color:pink;
                 
                 font-family:monospace;
             }
@@ -12,9 +12,8 @@ body {
                 
                 font-family: sans-serif;
             }
-            #para2{
-                color:lemonchiffon;
-            }
+
+            
             #para3{
                 color: pink;
             }
@@ -48,8 +47,10 @@ body {
             background-image: url(../pics/yellow.png);
             text-align: center;
             width: 80%;
+            padding: 15px
 
            }
            header{
-            background-color: aliceblue;
+            background-color:cornflowerblue; padding: 15; text-align: center;
+            
            }
